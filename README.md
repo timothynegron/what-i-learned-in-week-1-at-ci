@@ -11,7 +11,7 @@ In this README file I try to simply explain the concepts I learned in week 1 at 
 1. Markup Languages
 2. Markdown
 3. Introduction to HTML
-4. CSS
+4. Introduction to CSS
 5. The Box Model
 6. Introduction to CSS Flexbox Layout Module
 7. Introduction to the Command Line Interface
