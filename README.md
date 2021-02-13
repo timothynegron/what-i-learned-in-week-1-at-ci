@@ -15,6 +15,7 @@ In this README file I try to simply explain the concepts I learned in week 1 at 
 5. Introduction to CSS Flexbox Layout Module
 6. Introduction to the Command Line Interface
 
+---------------------------------------------------------------------------
 
 ### Markup Languages
 
