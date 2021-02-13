@@ -10,10 +10,11 @@ In this README file I try to simply explain the concepts I learned in week 1 at 
 
 1. Markup Languages
 2. Markdown
-3. CSS
-4. The Box Model
-5. Introduction to CSS Flexbox Layout Module
-6. Introduction to the Command Line Interface
+3. Introduction to HTML
+4. CSS
+5. The Box Model
+6. Introduction to CSS Flexbox Layout Module
+7. Introduction to the Command Line Interface
 
 ---------------------------------------------------------------------------
 
@@ -47,7 +48,7 @@ Markdown's source code is much easier for a human to read and write compared to 
 
 ---
 
-### HTML
+### Introduction to HTML
 
 HTML is another markup language that is used in software development. Like Markdown, HTML has tags to create and format elements, however, in HTML the tags can also contain attributes. In HTML, **attributes** give a computer more data about how an element should be presented. This gives someone programming a computer more control over the contents within the tag. An attribute is a component of an element that can be added if desired.
 
@@ -70,7 +71,7 @@ As you can see in the code above, not only is the syntax different compared with
 
 ---------------------------------------------------------------------------
 
-### CSS
+### Introduction to CSS
 
 CSS is known as a styling language - not a markup language. It is supported by a number of languages. In HTML, CSS is used by computer programmers to style HTML elements. Where HTML is designed for structuring elements, CSS is designed for styling them. They are countless ways to present your content with CSS with how your font looks, the color of your background, how your elements are arranged, and you can even add some animation to your elements.
 
